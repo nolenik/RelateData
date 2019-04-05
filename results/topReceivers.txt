@@ -1,0 +1,11 @@
+bytesIn  sourceAdress
+237079453784 router.c2.local_111.16.2.11
+1733584750 basement.inside.local
+730612774 ns.inside.local
+458321712 g1.inside.local_192.168.1.1
+7147896 239.255.255.250
+6678936 ospf-all.mcast.net
+4466080 ospf-dsig.mcast.net
+1536576 255.255.255.255
+109932 111.22.22.255
+54616 224.0.0.251

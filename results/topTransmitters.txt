@@ -1,0 +1,11 @@
+bytesOut  sourceAdress
+63414727474 ns.inside.local
+1935488106 router.c2.local_111.16.2.11
+2803674 g1.inside.local_192.168.1.1
+434584 R_111.22.22.102
+282506 WIFI_192.168.1.111
+190162 WIFI_192.168.1.222
+87340 work.inside.local
+1206 CENTOS_FTP_111.22.22.106
+0 ospf-all.mcast.net
+0 255.255.255.255
